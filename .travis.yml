@@ -16,5 +16,5 @@ deploy:
   provider: heroku
   skip_cleanup: true
   keep-history: true
-  api-key: b8d64276-08e4-4071-8a5c-df608feebe34
+  api-key: $TOKEN
   app: digich-test
